@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Motivart Privacy Policy
-permalink: /motivart-privacy-policy
+permalink: /motivart-privacy-policy/
 comments: false
 ---
 

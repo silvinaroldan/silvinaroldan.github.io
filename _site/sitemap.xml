@@ -13,6 +13,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/motivart-privacy-policy/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/privacy-policy/</loc>
 </url>
 </urlset>
