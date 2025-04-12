@@ -4,6 +4,9 @@ topmenu:
 - title: Home
   url: ""
 
+- title: My Apps
+  url: "my-visionos-apps/"
+
 - title: About
   url: "about/"
 
